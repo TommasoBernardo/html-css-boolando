@@ -13,7 +13,12 @@ header{
     background-color: #ff6900;
     height: 45px;
 }
-
+nav{
+    position: fixed;
+}
+main{
+    padding: 2rem;
+}
 /* FINE GENERICHE */
 
 /* ID SPECIFICI */
@@ -64,5 +69,14 @@ nav ul.main-menu li{
     width: 15px;
     margin-top: .8rem;
     display: inline-block;
+}
+.row-products{
+
+
+}
+
+.products{
+    width:20rem;
+    padding: 1rem;
 }
 /* FINE CLASSI */

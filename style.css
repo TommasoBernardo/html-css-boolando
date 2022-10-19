@@ -19,9 +19,6 @@ main{
 }
 /* FINE GENERICHE */
 
-/* ID SPECIFICI */
-/* FINE ID SPECIFIC */
-
 /* CLASSI */
 .container{
     width: 94.5%;
@@ -70,6 +67,10 @@ nav ul.main-menu li{
 .immagine{
     width: 20rem;
 }
+
+
+
+
 .margine{
     margin-top: 6rem;
 }
@@ -88,6 +89,10 @@ nav ul.main-menu li{
 
 .p-absolute{
     position: absolute;
+}
+
+.row-products{
+    margin: 10px;
 }
 
 .sconto{
@@ -133,4 +138,9 @@ nav ul.main-menu li{
     font-size: 12px;
     text-decoration-line: line-through;
 }
+
+/* CLASSI HOVER IMMAGINE 1 */
+
+
 /* FINE CLASSI */
+
